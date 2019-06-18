@@ -1,0 +1,2 @@
+<navigation title='我的' show_bol='{{false}}' my_class='{{true}}' content_offset='{{false}}'></navigation>
+<view class='head'></view>

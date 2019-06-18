@@ -1,0 +1,3 @@
+<!--pages/left-right/left-right.wxml-->
+<navigation title="左右渐变" direction="left"></navigation>
+<text>pages/left-right/left-right.wxml</text>

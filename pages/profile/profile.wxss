@@ -1,0 +1,11 @@
+/* pages/profile/profile.wxss */
+page {
+  background-color: #eee;
+}
+.head {
+  width: 100%;
+  height: 300rpx;
+  box-sizing: border-box;
+  background: -webkit-linear-gradient(top, orange, #24AFFF);
+  padding-top: 1rpx;
+}

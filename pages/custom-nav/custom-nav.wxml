@@ -1,0 +1,3 @@
+<!--pages/custom-nav/custom-nav.wxml-->
+<navigation title='自定义导航栏(下拉刷新)'></navigation>
+<text>pages/custom-nav/custom-nav.wxml</text>

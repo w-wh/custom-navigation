@@ -1,0 +1,12 @@
+<!--pages/home/home.wxml-->
+<navigation title='首页' show_bol='{{false}}'></navigation>
+<view class="page">
+    <view class="page__bd">
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="{{item.path}}" class="weui-cell weui-cell_access" hover-class="weui-cell_active" wx:key="{{index}}" wx:for="{{list}}">
+                <view class="weui-cell__bd">{{item.title}}</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access"></view>
+            </navigator>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,3 @@
+<!--pages/not-linear-gradient/not-linear-gradient.wxml-->
+<navigation title='纯色不渐变' linear_gradient='{{false}}' background_color='orange'></navigation>
+<text>pages/not-linear-gradient/not-linear-gradient.wxml</text>

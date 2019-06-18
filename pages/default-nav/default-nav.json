@@ -1,0 +1,6 @@
+{
+  "usingComponents": {},
+  "navigationStyle": "default",
+  "navigationBarTitleText": "默认导航栏(下拉刷新)",
+  "enablePullDownRefresh": true
+}

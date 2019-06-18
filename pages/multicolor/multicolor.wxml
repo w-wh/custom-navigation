@@ -1,0 +1,3 @@
+<!--pages/multicolor/multicolor.wxml-->
+<navigation title='多色渐变' title_color='#000' color_stops='{{colors}}'></navigation>
+<text>pages/multicolor/multicolor.wxml</text>
